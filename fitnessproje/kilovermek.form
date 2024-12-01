@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane2" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <Component id="jScrollPane2" pref="1074" max="32767" attributes="0"/>
+              <EmptySpace max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+      <Properties>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[1920, 1080]"/>
+        </Property>
+      </Properties>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="cc" type="rgb"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[1920, 1920]"/>
+            </Property>
+          </Properties>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+            <Property name="useNullLayout" type="boolean" value="false"/>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="sudiyet">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="16" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;  &lt;style&gt;  p{  color: white ; font-size: 16px; line-height: 1.6px;   }   &lt;/style&gt;  &lt;p&gt;&#xa;G&#xfc;n&#xfc;m&#xfc;zde ad&#x131;ndan s&#x131;kl&#x131;kla bahsedilen su diyeti ya&#x15f;am&#x131;n devaml&#x131;l&#x131;&#x11f;&#x131; i&#xe7;in elzem olan suyu merkezine alan bir diyet bi&#xe7;imidir. &lt;br&gt; Belirli d&#xf6;nemlerde yap&#x131;lan diyetler kilo vermeye oldu&#x11f;u kadar sa&#x11f;l&#x131;&#x11f;&#x131; korumaya da yard&#x131;mc&#x131; olabilir. &lt;br&gt; Su diyeti 24-72 saat boyunca su ba&#x15f;ta olmak &#xfc;zere sadece s&#x131;v&#x131; g&#x131;dalar&#x131;n t&#xfc;ketildi&#x11f;i bir diyet &#x15f;eklidir.&#xa;&lt;/p&gt; &lt;/html&gt;"/>
+                <Property name="verticalAlignment" type="int" value="1"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="230" y="1710" width="1210" height="120"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="orucdiyeti1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;  &lt;style&gt;  p{  color: white ; font-size: 16px; line-height: 1.6px;   }   &lt;/style&gt;  &lt;p&gt;Aral&#x131;kl&#x131; oru&#xe7;, g&#xfc;n&#xfc; ikiye b&#xf6;len, 16 saat a&#xe7; kal&#x131;p kalan 8 saatte yemek yenilmesini i&#xe7;eren, &#xf6;zetle 24 saat i&#xe7;erisinde hem kahvalt&#x131; &lt;br&gt;  hem de ak&#x15f;am yeme&#x11f;i olmak &#xfc;zere 2 &#xf6;&#x11f;&#xfc;nden olu&#x15f;an beslenme &#x15f;eklidir. 16:8 kural&#x131; olarak bilinen 16 saat yemek  &lt;br&gt;yenmemesi sonras&#x131; kalan 8 saatte sa&#x11f;l&#x131;kl&#x131; bir &#x15f;ekilde beslenilmesini savunur. Aral&#x131;kl&#x131; oru&#xe7;taki bu 16 saatlik a&#xe7;l&#x131;&#x11f;&#x131;n i&#xe7;ine  &lt;br&gt;uyku saatleri de dahildir.&lt;/p&gt; &lt;/html&gt;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="230" y="270" width="-1" height="130"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="paleodiyeti1">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;  &lt;style&gt;  p{  color: white ; font-size: 16px; line-height: 1.6px;   }   &lt;/style&gt;  &lt;p&gt;&#xa;Paleo diyeti, protein a&#x11f;&#x131;rl&#x131;kl&#x131; bir diyet olup, i&#x15f;lenmemi&#x15f; ve do&#x11f;al g&#x131;dalardan olu&#x15f;ur ve zay&#x131;flatmaya yard&#x131;mc&#x131;d&#x131;r. &lt;br&gt;&#xa;Karbonhidrat, rafine &#x15f;ekerler, yapay tatland&#x131;r&#x131;c&#x131;lar, katk&#x131; maddeleri, koruyucu maddeler ve i&#x15f;lenmi&#x15f; g&#x131;dalardan ka&#xe7;&#x131;n&#x131;r.&lt;br&gt;&#xa;Paleo diyeti, et &#xfc;r&#xfc;nleri a&#x11f;&#x131;rl&#x131;kl&#x131; olmak &#xfc;zere do&#x11f;al &#xfc;r&#xfc;nlere &#xf6;ncelik veren beslenme &#xe7;e&#x15f;ididir, en sa&#x11f;l&#x131;kl&#x131; diyetler aras&#x131;nda yer almaktad&#x131;r.&#xa;&lt;/p&gt; &lt;/html&gt;"/>
+                <Property name="verticalAlignment" type="int" value="1"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="230" y="520" width="1190" height="120"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="vegandiyeti">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="16" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;  &lt;style&gt;  p{  color: white ; font-size: 16px; line-height: 1.6px;   }   &lt;/style&gt;  &lt;p&gt; Akdeniz diyeti, Akdeniz havzas&#x131; &#xe7;evresinde geli&#x15f;en eski uygarl&#x131;klar&#x131;n yemek k&#xfc;lt&#xfc;rlerinden ismini alm&#x131;&#x15f;t&#x131;r. Bir beslenme modelidir. &#xa;&lt;br&gt;Ya&#x11f; al&#x131;m&#x131;n&#x131;n ana kayna&#x11f;&#x131; olarak zeytinya&#x11f;&#x131; d&#xfc;zenli olarak t&#xfc;ketilir.&#xa; Akdeniz diyeti; bitkisel g&#x131;dalar, tah&#x131;llar, meyveler, sebzeler, baklagiller ve ya&#x11f;l&#x131; tohumlar t&#xfc;ketimine dayan&#x131;r. &#xa;K&#x131;rm&#x131;z&#x131; et ve di&#x11f;er et &#xfc;r&#xfc;nlerinin nispeten s&#x131;n&#x131;rl&#x131; t&#xfc;ketimini dengelemeyi ama&#xe7;larken; orta d&#xfc;zeyde bal&#x131;k, deniz &#xfc;r&#xfc;nleri ve s&#xfc;t &#xfc;r&#xfc;nleri t&#xfc;ketilir &lt;/p&gt; &lt;/html&gt;"/>
+                <Property name="verticalAlignment" type="int" value="1"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="230" y="760" width="1210" height="120"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="ketojenikdiyet">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="16" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;  &lt;style&gt;  p{  color: white ; font-size: 16px; line-height: 1.6px;   }   &lt;/style&gt;  &lt;p&gt;Vegan diyeti, yaln&#x131;zca bitkisel &#xfc;r&#xfc;nler kullan&#x131;larak yap&#x131;lmaktad&#x131;r. &lt;br&gt;B&#xf6;ylelikle yumurta, s&#xfc;t ve s&#xfc;t &#xfc;r&#xfc;nleri, bal, et, bal&#x131;k, tavuk, yo&#x11f;urt, peynir gibi hi&#xe7;bir g&#x131;da t&#xfc;ketimi yap&#x131;lmamaktad&#x131;r. &lt;br&gt;Bunun yan&#x131; s&#x131;ra badem s&#xfc;t&#xfc;, hindistancevizi s&#xfc;t&#xfc; ve soyu s&#xfc;t&#xfc; gibi tamamen bitkisel s&#xfc;t &#xe7;e&#x15f;itleri t&#xfc;ketilebilmektedir. &lt;/p&gt; &lt;/html&gt;"/>
+                <Property name="verticalAlignment" type="int" value="1"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="230" y="990" width="1210" height="120"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="flexitariandiyet">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="16" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;  &lt;style&gt;  p{  color: white ; font-size: 16px; line-height: 1.6px;   }   &lt;/style&gt;  &lt;p&gt;&#xa;Kilo vermeyi destekleyen ketojenik diyet, &lt;br&gt;kan &#x15f;ekerini d&#xfc;zenler, enerji seviyesini art&#x131;r&#x131;r ve bunlar&#x131;n yan&#x131;nda sa&#x11f;l&#x131;k i&#xe7;in bir&#xe7;ok fayda sa&#x11f;lar.&#xa;&lt;br&gt;Fakat bu diyetin uzun s&#xfc;reler uygulanmas&#x131; riskli olabilmektedir. &lt;br&gt;&#xa;Bu y&#xfc;zden uzman doktordan g&#xf6;r&#xfc;&#x15f; alarak bu diyeti s&#xfc;rd&#xfc;rmek ve ilerlemek &#xf6;nemlidir.&lt;br&gt;&#xa;&lt;/p&gt; &lt;/html&gt;"/>
+                <Property name="verticalAlignment" type="int" value="1"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="230" y="1230" width="1210" height="120"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="sudiyeti">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="16" style="0"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="&lt;html&gt;  &lt;style&gt;  p{  color: white ; font-size: 16px; line-height: 1.6px;   }   &lt;/style&gt;  &lt;p&gt;&#xa;Flexitarian diyet, vegan diyetin daha esnek hali olarak say&#x131;labilir. &lt;br&gt; Peskateryan diyetlerde vegan &#xfc;r&#xfc;nlerine ek olarak bal&#x131;k, et, s&#xfc;t &#xfc;r&#xfc;nleride t&#xfc;ketilebilir&lt;br&gt; ama bunu en az da tutmaya &#xe7;al&#x131;&#x15f;&#x131;r ve esnek bir diyeti bize sunar&lt;br&gt;Sa&#x11f;l&#x131;kl&#x131; kilo verme konusunda en &#xe7;ok tercih edilen 3 diyetten biridir.&#xa;&lt;/p&gt; &lt;/html&gt;"/>
+                <Property name="verticalAlignment" type="int" value="1"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="230" y="1470" width="1210" height="120"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel3">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="SU D&#x130;YET&#x130;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="1660" width="180" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="aral&#x131;kl&#x131;oruc">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="ARALIKLI ORU&#xc7;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="230" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="paleodiyet">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="PALEO D&#x130;YET&#x130;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="470" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="akdenizdiyeti">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="AKDEN&#x130;Z D&#x130;YET&#x130;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="710" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="vegandiyet">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="VEGAN D&#x130;YET&#x130;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="950" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="ketodiyet">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="KETOJEN&#x130;K D&#x130;YET&#x130;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="1190" width="170" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="flexitariandiyeti">
+              <Properties>
+                <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+                  <Font name="Segoe UI" size="18" style="1"/>
+                </Property>
+                <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="FLEX&#x130;TAR&#x130;AN D&#x130;YET&#x130;"/>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="10" y="1430" width="180" height="40"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="kasyapmahandclick">
+              <Properties>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="1600" y="40" width="300" height="150"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="anasayfaHandClick">
+              <Properties>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="890" y="30" width="160" height="130"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="sagl&#x131;ktavsiyelerihandclick">
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="40" y="40" width="320" height="170"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="proteindegerlerihandclick">
+              <Properties>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="540" y="70" width="260" height="110"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="kilovermekhandclick">
+              <Properties>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="1130" y="70" width="200" height="110"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="kasyapmakhandclick">
+              <Properties>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="1580" y="50" width="290" height="140"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JLabel" name="arkaplan">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="2" name="C:\Users\TozLu\Documents\NetBeansProjects\fitnessproje\src\fitnessproje\fxprojeresim\diyet men&#xfc;.png"/>
+                </Property>
+              </Properties>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="0" y="0" width="-1" height="-1"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="tavsiye">
+              <Properties>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+                <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                  <Connection code="false" type="code"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tavsiyeActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="20" y="40" width="340" height="150"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="kilover">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="jButton4"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+                <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                  <Connection code="false" type="code"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="kiloverActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="1130" y="50" width="200" height="140"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="protein">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="jButton2"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+                <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                  <Connection code="false" type="code"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="proteinActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="540" y="70" width="250" height="100"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="anasayfa">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="jButton4"/>
+                <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+                  <Color id="Hand Cursor"/>
+                </Property>
+                <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                  <Connection code="false" type="code"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="anasayfaActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="900" y="40" width="140" height="110"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+            <Component class="javax.swing.JButton" name="kasyap">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="jButton1"/>
+                <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+                  <Connection code="false" type="code"/>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="kasyapActionPerformed"/>
+              </Events>
+              <Constraints>
+                <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+                  <AbsoluteConstraints x="1540" y="40" width="340" height="160"/>
+                </Constraint>
+              </Constraints>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

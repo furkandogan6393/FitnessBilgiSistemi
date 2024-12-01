@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="false"/>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="supplementtext">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="17" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt; Y&#x131;llard&#x131;r hayat&#x131;m&#x131;zda olan ve bize ucuza; enerji, protein, kilo, kas g&#xfc;c&#xfc; sa&#x11f;layan supplementler bize &#xe7;ok masum g&#xf6;r&#xfc;n&#xfc;rken bilinmeyen yan etkileriniden bilmekte yarar vard&#x131;r. Size k&#x131;saca baz&#x131; supplementlerin yan etkilerini sayacaz. HAD&#x130; HAZIRSANIZ BA&#x15e;LAYALIM! &lt;/html&gt;"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="170" y="290" width="730" height="90"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="haz&#x131;rg&#x131;datext">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;Haz&#x131;r g&#x131;dalar&#x131;n y&#xfc;ksek &#x15f;eker, ya&#x11f; ve tuz i&#xe7;eri&#x11f;i, sporcular i&#xe7;in gereken besin &#xf6;gelerini yetersiz sa&#x11f;layabilir ve kilo kontrol&#xfc;n&#xfc; zorla&#x15f;t&#x131;rabilir. Ayr&#x131;ca, katk&#x131; maddeleri ve d&#xfc;&#x15f;&#xfc;k kaliteli proteinlerin uzun vadede sa&#x11f;l&#x131;k sorunlar&#x131;na yol a&#xe7;abilece&#x11f;i bilinmektedir. Bu nedenle, dengeli bir beslenme plan&#x131; olu&#x15f;turmak ve do&#x11f;al, i&#x15f;lenmemi&#x15f; g&#x131;dalara odaklanmak &#xf6;nemlidir.&#xa;&lt;/html&gt;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1200" y="670" width="720" height="90"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="steroidtext">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;Kas &#xfc;retim konusunda k&#x131;sa vadede m&#xfc;kemmel sonu&#xe7;lar almaya yarayan Steroidler, kas k&#xfc;tlesi art&#x131;&#x15f;&#x131;, performans iyile&#x15f;tirmesi ve iyile&#x15f;me s&#xfc;recini h&#x131;zland&#x131;rma gibi olumlu etkilere sahip olabilirken, ciddi yan etkileri de bulunmaktad&#x131;r.&#xa; Bu yan etkiler aras&#x131;nda karaci&#x11f;er hasar&#x131;, kalp problemleri, ruh hali de&#x11f;i&#x15f;iklikleri, hormonal dengesizlikler, akne, sa&#xe7; d&#xf6;k&#xfc;lmesi, erkeklerde meme b&#xfc;y&#xfc;mesi, kad&#x131;nlarda sesin derinle&#x15f;mesi gibi sa&#x11f;l&#x131;k sorunlar&#x131; yer al&#x131;r.&#xa; Steroidlerin yan etkileri genellikle uzun s&#xfc;reli ve ciddidir, hatta bazen kal&#x131;c&#x131; hasara neden olabilirler.&#xa;&lt;/html&gt;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="170" y="480" width="730" height="90"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kafeintext">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;Sporcular&#x131;n ve gece &#xe7;al&#x131;&#x15f;anlar&#x131;n&#x131;n g&#xf6;zde &#xfc;r&#xfc;n&#xfc; olan Kafein, uyar&#x131;c&#x131; etkisiyle enerji seviyelerini art&#x131;rabilir, odaklanmay&#x131; ve dikkati art&#x131;rabilir, egzersiz performans&#x131;n&#x131; iyile&#x15f;tirebilir ve k&#x131;sa vadeli zihinsel performans&#x131; art&#x131;rabilir. Ancak, a&#x15f;&#x131;r&#x131; t&#xfc;ketildi&#x11f;inde veya hassas bireylerde yan etkilere neden olabilir. Bunlar aras&#x131;nda uykusuzluk, sinirlilik, kalp &#xe7;arp&#x131;nt&#x131;s&#x131;, mide rahats&#x131;zl&#x131;&#x11f;&#x131; ve ba&#x11f;&#x131;ml&#x131;l&#x131;k yer al&#x131;r. Uzun s&#xfc;reli y&#xfc;ksek d&#xfc;zeyde kafein t&#xfc;ketimi, uyku kalitesini bozabilir ve tolerans geli&#x15f;imine yol a&#xe7;abilir. Bu nedenle, kafein al&#x131;m&#x131;n&#x131; dengeli tutmak ve &#xf6;l&#xe7;&#xfc;l&#xfc; t&#xfc;ketmek &#xf6;nemlidir.&#xa;&lt;/html&gt;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="170" y="670" width="730" height="90"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="sebzetext">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;Sebzeler, fitness i&#xe7;in &#xf6;nemlidir &#xe7;&#xfc;nk&#xfc; besleyici, d&#xfc;&#x15f;&#xfc;k kalorili, sindirimi destekleyici, hidrasyon sa&#x11f;lay&#x131;c&#x131; ve performans art&#x131;r&#x131;c&#x131;d&#x131;r; ancak, &#xa;baz&#x131;lar&#x131; i&#xe7;in sindirim sorunlar&#x131;na neden olabilir, bu nedenle &#xe7;e&#x15f;itli sebzeleri dengeli bir &#x15f;ekilde t&#xfc;ketmek &#xf6;nemlidir.&#xa;Sebzeler, g&#xf6;z sa&#x11f;l&#x131;&#x11f;&#x131;ndan ba&#x11f;&#x131;&#x15f;&#x131;kl&#x131;k sistemine, kan p&#x131;ht&#x131;la&#x15f;mas&#x131;ndan h&#xfc;cre b&#xf6;l&#xfc;nmesine kadar bir&#xe7;ok alanda &#xf6;nemli olan A, C, K ve B vitaminlerini i&#xe7;erir.&#xa;&lt;/html&gt;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1200" y="290" width="730" height="90"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="ettext">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Segoe UI" size="13" style="1"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&lt;html&gt;&#xa;Et t&#xfc;ketmek, kas b&#xfc;y&#xfc;mesi ve onar&#x131;m&#x131; i&#xe7;in gerekli olan y&#xfc;ksek kaliteli protein ve &#xf6;nemli besin maddeleri sa&#x11f;lar; &#xa;ayr&#x131;ca v&#xfc;cut kompozisyonunu iyile&#x15f;tirir, g&#xfc;&#xe7; art&#x131;&#x15f;&#x131;n&#x131; destekler ve tokluk hissi verir.&#xa;Et, demir, &#xe7;inko, magnezyum gibi mineraller ile B12, B3 ve B2 gibi vitaminler a&#xe7;&#x131;s&#x131;ndan zengin bir kaynakt&#x131;r.&#xa;&lt;/html&gt;"/>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1200" y="480" width="720" height="90"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="anasayfaHandClick">
+          <Properties>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="890" y="30" width="140" height="130"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="sagl&#x131;ktavsiyelerihandclick">
+          <Properties>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="40" y="40" width="320" height="170"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="proteindegerlerihandclick">
+          <Properties>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="540" y="70" width="260" height="110"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kilovermekhandclick">
+          <Properties>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1130" y="70" width="200" height="110"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="kasyapmakhandclick">
+          <Properties>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1580" y="50" width="290" height="140"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JLabel" name="arkaplan">
+          <Properties>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="2" name="C:\Users\TozLu\Documents\NetBeansProjects\fitnessproje\src\fitnessproje\fxprojeresim\sagliktavsiyeleri.png"/>
+            </Property>
+          </Properties>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="3" y="0" width="1960" height="-1"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="supplementayr&#x131;nt&#x131;">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jButton1"/>
+            <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="false" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="supplementayr&#x131;nt&#x131;ActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="0" y="290" width="900" height="90"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="tavsiye">
+          <Properties>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+            <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="false" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="tavsiyeActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="20" y="40" width="340" height="150"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="kilover">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jButton4"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+            <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="false" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="kiloverActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1130" y="50" width="190" height="140"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="protein">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jButton2"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+            <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="false" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="proteinActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="540" y="70" width="250" height="100"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="anasayfa">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jButton4"/>
+            <Property name="cursor" type="java.awt.Cursor" editor="org.netbeans.modules.form.editors2.CursorEditor">
+              <Color id="Hand Cursor"/>
+            </Property>
+            <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="false" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="anasayfaActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="900" y="40" width="120" height="110"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+        <Component class="javax.swing.JButton" name="kasyapmak">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="jButton1"/>
+            <Property name="opaque" type="boolean" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+              <Connection code="false" type="code"/>
+            </Property>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="kasyapmakActionPerformed"/>
+          </Events>
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
+              <AbsoluteConstraints x="1540" y="40" width="340" height="160"/>
+            </Constraint>
+          </Constraints>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
